@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">greeting_App</string>
+    <string name="hand_image">hand_image</string>
+    <string name="enter_name">Please,inter_your name</string>
+</resources>
